@@ -1,7 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rnt-04.Rnt-04" />
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=000000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ritindranath+Tagore!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00ffff&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ritindranath+Tagore!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from India</h3>
