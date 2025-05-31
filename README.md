@@ -28,7 +28,7 @@
 <br/>
 <div align="center">
 <!--     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" /> -->
-    <img src="https://skillicons.dev/icons?i=java,python,godot,unity" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,godot,unity,C#" /><br>
 </div>
 
 <br/>
